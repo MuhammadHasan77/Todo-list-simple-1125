@@ -1,0 +1,20 @@
+{
+  "name": "todo-list-simple-h1125m",
+  "version": "1.0.0",
+  "description": "It is my todo-app... So easy & so helpul..",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Hasan",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.18"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
