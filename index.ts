@@ -1,5 +1,4 @@
 import inquirer from "inquirer";
-import chalk from "chalk";
 let todos = [];
 let condition = true;
 while (condition) {
